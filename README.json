@@ -1,0 +1,3557 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "Blazor is a .NET web framework to build client web apps with C#.\nBlazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries. More information on the official Blazor website.",
+      "items": [],
+      "title": "What is Blazor?"
+    },
+    {
+      "description": "To get started with Blazor, follow the instructions in the Blazor Get Started documentation.\nDoing the Build a web app with Blazor learning session on Microsoft Learn can also be a good idea. Another great resource to start is the beginner serie by Jeff Fritz on Channel9 or YouTube.",
+      "items": [],
+      "title": "Get started"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub repository",
+          "description": "The official Blazor repository (which is the ASP.NET Core repository).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:31:10Z",
+            "owner": "dotnet",
+            "repo": "aspnetcore",
+            "stars": 38369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eShopOnBlazor",
+          "description": "Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T20:42:17Z",
+            "owner": "dotnet",
+            "repo": "eShop",
+            "stars": 10771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAQ",
+          "description": "FAQ.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2021-02-23T15:13:56Z",
+            "owner": "dotnet",
+            "repo": "blazor",
+            "stars": 9270
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BitPlatform Templates",
+          "description": "- Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. Read more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:31:38Z",
+            "owner": "bitfoundation",
+            "repo": "bitplatform",
+            "stars": 1368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clean Architecture with Blazor Server",
+          "description": "Another template with MudBlazor and CleanArchitecture approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T23:57:36Z",
+            "owner": "neozhu",
+            "repo": "CleanArchitectureWithBlazorServer",
+            "stars": 1232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CleanAspire",
+          "description": "- CleanAspire is a cloud-native template powered by Aspire for cloud environments with scalability and offline support. Using .NET 9 Minimal APIs and Blazor WebAssembly, it provides a lightweight, fast foundation for building Progressive Web Applications (PWA) optimized for the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-12T23:37:56Z",
+            "owner": "neozhu",
+            "repo": "cleanaspire",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorSwa Template",
+          "description": "This is a simple template for the .NET CLI which allows to create a Blazor project ready to be deployed in an Azure Static Web Apps. It allows to create an Azure Function project as backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-06-20T18:20:50Z",
+            "owner": "albx",
+            "repo": "BlazorSwa.Template",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sample Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cledev.OpenAI",
+          "description": ".NET 7 SDK for OpenAI with a Blazor Server playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-17T18:46:39Z",
+            "owner": "Cledev-Limited",
+            "repo": "Cledev.OpenAI",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExplainFaceRecognition",
+          "description": "Interactive Face Detection & Recognition tutorial with hands-on code samples. State-of-the-art local face AI showcase. Blazor Server & Hybrid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T02:33:34Z",
+            "owner": "georg-jung",
+            "repo": "explain-face-rec",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BlazorBoilerplate",
+          "description": "Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-14T09:05:20Z",
+            "owner": "enkodellc",
+            "repo": "blazorboilerplate",
+            "stars": 1914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheIdServer",
+          "description": "OpenID/Connect server base on IdentityServer4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T07:14:06Z",
+            "owner": "Aguafrommars",
+            "repo": "TheIdServer",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorWithIdentity",
+          "description": "A sample project showcasing a Blazor app using EF Core with Identity authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-05-10T10:30:10Z",
+            "owner": "stavroskasidis",
+            "repo": "BlazorWithIdentity",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blorc.OpenIdConnect",
+          "description": "The right way to use OpenID Connect on Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T09:20:04Z",
+            "owner": "WildGums",
+            "repo": "Blorc.OpenIdConnect",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeBeam.UltimateAuth",
+          "description": "A modern authentication framework for .NET that unifies sessions, cookies and tokens into a single model, with built-in support for Blazor Server and WebAssembly applications. Docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-10T19:59:41Z",
+            "owner": "CodeBeamOrg",
+            "repo": "UltimateAuth",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorWasmOidcKeycloak",
+          "description": "Blazor WebAssembly application using OpenID Connect (OIDC) authentication with Microsoft Identity and Keycloak.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-03T20:16:16Z",
+            "owner": "wildermedeiros",
+            "repo": "BlazorAppWasmAuth",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oqtane",
+          "description": "Oqtane is a CMS & Application Framework for Blazor & .NET MAUI Oqtane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:20:11Z",
+            "owner": "oqtane",
+            "repo": "oqtane.framework",
+            "stars": 2253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blogifier",
+          "description": "ASP.NET Core Blogging application with Blazor Admin Dashboard. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-16T13:30:03Z",
+            "owner": "blogifierdotnet",
+            "repo": "Blogifier",
+            "stars": 1295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentCMS",
+          "description": "FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS) FluentCMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-30T13:53:22Z",
+            "owner": "fluentcms",
+            "repo": "FluentCMS",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eShopOnBlazor",
+          "description": "Migration of a traditional ASP.NET Web Forms app to Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-07T18:20:13Z",
+            "owner": "dotnet-architecture",
+            "repo": "eShopOnBlazor",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RapidCMS",
+          "description": "A code-first, extensible Blazor app that generates a CMS for your own database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-25T20:34:21Z",
+            "owner": "ThomasBleijendaal",
+            "repo": "RapidCMS",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JHipster.NET",
+          "description": "JHipster is a well-known platform for generating modern application in java world. JHipster provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "EJS",
+            "last_commit": "2026-05-23T11:30:08Z",
+            "owner": "jhipster",
+            "repo": "jhipster-dotnetcore",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZauberCMS",
+          "description": "Fully featured, highly customisable and plugin based Blazor CMS, heavily inspired by Umbraco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-08T08:45:41Z",
+            "owner": "YodasMyDad",
+            "repo": "ZauberCMS",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "CMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trains.NET",
+          "description": "2D game built with .NET and C# on a Twitch stream. Trains is available to play online at wengier.com/Trains.NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:54:39Z",
+            "owner": "davidwengier",
+            "repo": "Trains.NET",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsteroidsWasm",
+          "description": "Collection of .NET 8 C# applications consuming a single .NET Standard project running in: Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, MAUI, WinUI 3. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-10T23:05:51Z",
+            "owner": "aesalazar",
+            "repo": "AsteroidsWasm",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiabloBlazor",
+          "description": "Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-05T20:40:17Z",
+            "owner": "n-stefan",
+            "repo": "diabloblazor",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZXSpectrum",
+          "description": "ZX Spectrum emulator running on Blazor WebAssembly. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-12T12:24:12Z",
+            "owner": "EngstromJimmy",
+            "repo": "ZXSpectrum",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wolfenstein 3D ported to Blazor",
+          "description": "Wolfenstein 3D ported to modern C# and Blazor. Article.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-24T11:26:47Z",
+            "owner": "JamesRandall",
+            "repo": "csharp-wolfenstein",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WordleBlazor",
+          "description": "Simple clone of popular Wordle game in Blazor. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-12T17:51:13Z",
+            "owner": "johnt84",
+            "repo": "WordleBlazorApp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Puzzle #3 - File not found",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-09-06T21:27:48Z",
+            "owner": "BlazorPuzzle",
+            "repo": "Puzzle-3",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Photino",
+          "description": "Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-26T15:15:41Z",
+            "owner": "tryphotino",
+            "repo": "photino.NET",
+            "stars": 1320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RemoteBlazorWebView",
+          "description": "RemoteBlazorWebView enables you to interact with the user interface of a program developed with either the BlazorWebView WPF control or WinForms control using a web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-07T14:52:30Z",
+            "owner": "budcribar",
+            "repo": "RemoteBlazorWebView",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorInAngularDemo",
+          "description": "Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-08T18:22:11Z",
+            "owner": "Xenoage",
+            "repo": "BlazorInAngularDemo",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor + Umbraco Heartcore",
+          "description": "Example of using Umbraco Heartcore with Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-07T11:30:41Z",
+            "owner": "umbraco",
+            "repo": "Umbraco.Headless.Client.Net",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Wasm with ASP.NET Framework 4.x",
+          "description": "With some tweaks and limitations you can run Blazor Wasm on Net Framework 4.x or in another environment. Explanation on Medium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-31T21:02:04Z",
+            "owner": "elgransan",
+            "repo": "BlazorWasmWithNetFrameworkMVC",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Hybrid"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PresenceLight",
+          "description": "PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. Blog post. Demo video.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-25T01:44:35Z",
+            "owner": "isaacrlevin",
+            "repo": "presencelight",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meadow Weather",
+          "description": "In this sample, a Meadow microcontroller polls data from a LM35 temperature sensor. That data is sent via HTTP request to an API controller endpoint and stored in a database where it can be visualized in a chart using a Blazor web app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-17T21:59:02Z",
+            "owner": "bradwellsb",
+            "repo": "blazor-meadow-weather",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "IoT"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scalable sentiment analysis",
+          "description": "A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-07-27T09:39:50Z",
+            "owner": "dotnet",
+            "repo": "machinelearning-samples",
+            "stars": 4686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorML5",
+          "description": "ML5 Machine Learning for Blazor with JSInterop mechanism.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-14T06:32:20Z",
+            "owner": "sps014",
+            "repo": "BlazorML5",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optimizer.ml",
+          "description": "A \"server-less\" general purpose optimization suite for algorithm parameters. Also provides offline optimization of Quantconnect Lean trading algorithms. Demo (https://optimizer.ml).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T08:03:01Z",
+            "owner": "jameschch",
+            "repo": "LeanParameterOptimization",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baseball Machine Learning Workbench",
+          "description": "A web application that showcases performing what-if analysis using in-memory Machine Learning models. Live demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-16T18:43:25Z",
+            "owner": "bartczernicki",
+            "repo": "MachineLearning-BaseballPrediction-BlazorApp",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WalkingTec.Mvvm (WTM)",
+          "description": "A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-05T06:33:06Z",
+            "owner": "dotnetcore",
+            "repo": "WTM",
+            "stars": 4354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oqtane",
+          "description": "Oqtane is a CMS & Application Framework for Blazor & .NET MAUI Oqtane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:20:11Z",
+            "owner": "oqtane",
+            "repo": "oqtane.framework",
+            "stars": 2253
+          }
+        }
+      ],
+      "title": "Rapid Development Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TodoApi by David Fowler",
+          "description": "Todo application by David Fowler in .NET 7 that features an ASP.NET Core hosted Blazor WASM front end application and an ASP.NET Core REST API backend using minimal APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-12T09:29:50Z",
+            "owner": "davidfowl",
+            "repo": "TodoApp",
+            "stars": 3101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHabitTracker",
+          "description": "Free, open source habit tracker for Web, Windows, Linux, Android, iOS and macOS. Take notes, plan tasks, track habits. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:44:33Z",
+            "owner": "Jinjinov",
+            "repo": "OpenHabitTracker",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ididit!",
+          "description": "The procrastination friendly habit tracker. ake notes, manage tasks, track habits. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-18T06:34:54Z",
+            "owner": "Jinjinov",
+            "repo": "Ididit",
+            "stars": 232
+          }
+        }
+      ],
+      "title": "ToDos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CleanArchitecture",
+          "description": "Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-31T13:54:53Z",
+            "owner": "fullstackhero",
+            "repo": "blazor-starter-kit",
+            "stars": 3573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flight Finder",
+          "description": "Flight Finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-13T07:32:49Z",
+            "owner": "aspnet",
+            "repo": "samples",
+            "stars": 1013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eShopOnBlazor",
+          "description": "Migration of a traditional ASP.NET Web Forms app to Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-07T18:20:13Z",
+            "owner": "dotnet-architecture",
+            "repo": "eShopOnBlazor",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinqToTwitter Blazor sample",
+          "description": "LINQ Provider for the Twitter API (Twitter Library).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-15T17:58:04Z",
+            "owner": "JoeMayo",
+            "repo": "LinqToTwitter",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorFileReader",
+          "description": "Read-only File streams in Blazor. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-05T22:06:18Z",
+            "owner": "Tewr",
+            "repo": "BlazorFileReader",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorCRUD",
+          "description": "Sample line of business application that illustrates key features of Blazor. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-22T05:28:58Z",
+            "owner": "thbst16",
+            "repo": "dotnet-blazor-crud",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.SVGEditor",
+          "description": "A basic HTML SVG Editor written in Blazor WASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-10T11:17:08Z",
+            "owner": "KristofferStrube",
+            "repo": "Blazor.SVGEditor",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.SVGEditor",
+          "description": "A basic HTML SVG Editor written in Blazor WASM. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-10T11:17:08Z",
+            "owner": "KristofferStrube",
+            "repo": "Blazor.SVGEditor",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorChatSample",
+          "description": "Blazor chat demo using SignalR JS client with interop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-04T15:55:30Z",
+            "owner": "conficient",
+            "repo": "BlazorChatSample",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Money",
+          "description": "A money manager implemented using CQRS+ES. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-20T16:32:24Z",
+            "owner": "maraf",
+            "repo": "Money",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Command and Control, by David Fowler",
+          "description": "This is a sample using Blazor server and SignalR to do command and control. Agents connect to the blazor server application which is hosting a SignalR Hub and we can issue various commands against the connected agents (this feature uses client results).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-04T06:31:06Z",
+            "owner": "davidfowl",
+            "repo": "CommandAndControl",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFmpegBlazor",
+          "description": "FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. ffmpeg.wasm is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-17T06:53:37Z",
+            "owner": "sps014",
+            "repo": "FFmpegBlazor",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorAndTailwind",
+          "description": "Sample project, guide and tips for setting up TailwindCSS in Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-22T05:51:15Z",
+            "owner": "tesar-tech",
+            "repo": "BlazorAndTailwind",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaveHere",
+          "description": "Cloud Download Manager for direct links and media files from Youtube/Spotify/etc with media converter and builtin proxy to bypass restrictions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-26T16:11:48Z",
+            "owner": "gudarzi",
+            "repo": "SaveHere",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.MediaCaptureStreams",
+          "description": "A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-05T09:09:25Z",
+            "owner": "KristofferStrube",
+            "repo": "Blazor.MediaCaptureStreams",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planning Poker",
+          "description": "An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-18T09:22:16Z",
+            "owner": "duracellko",
+            "repo": "planningpoker4azure",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComponentBuilder",
+          "description": "- An automation framework to create Blazor component by .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-07T03:08:08Z",
+            "owner": "teacher-zhou",
+            "repo": "ComponentBuilder",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Wake-on-LAN",
+          "description": "Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-09T10:47:47Z",
+            "owner": "georg-jung",
+            "repo": "BlazorWoL",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netflix microfrontend like",
+          "description": "A netflix-like portal application with pilets. This sample demonstrates the use of piral to build a dynamic app consisting of various micro frontends. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-08T12:22:32Z",
+            "owner": "piral-samples",
+            "repo": "netflix-demo",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorServerImageRecognitionApp",
+          "description": "Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-12T12:07:48Z",
+            "owner": "johnt84",
+            "repo": "BlazorServerImageRecognitionApp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C# Regex Tester online",
+          "description": "Online tool for verify .Net regex syntax. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-29T08:35:54Z",
+            "owner": "lsvhome",
+            "repo": "regex-tester",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FootballBlazorApp",
+          "description": "Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T09:50:41Z",
+            "owner": "johnt84",
+            "repo": "FootballBlazorApp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorSSR",
+          "description": "Server-side rendering (SSR) with Blazor components, by Steve Sanderson.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-09-19T05:59:32Z",
+            "owner": "danroth27",
+            "repo": "BlazorSSR",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorViz interop wrapper for Viz.js",
+          "description": "A sample of generating Graphviz DOT language files and visualising tree data structures. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-11T09:10:46Z",
+            "owner": "mrzhdev",
+            "repo": "BlazorViz",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazingWaffles",
+          "description": "A Blazor app that wraps Waffle Generator. The generator outputs readable gibberish that can be used in place of Lorum Ipsum. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-09T08:46:36Z",
+            "owner": "gbiellem",
+            "repo": "BlazingWaffles",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial eShopOnContainers",
+          "description": "Unofficial Blazor WebAssembly client for eShopOnContainers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-10T20:01:32Z",
+            "owner": "n-stefan",
+            "repo": "eShopOnContainers",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pointing Party",
+          "description": "A tool for distributed agile story point estimation ceremonies, using Blazor WebAssembly and SignalR. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-13T11:48:33Z",
+            "owner": "martijn",
+            "repo": "PointingParty",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C# Regex Online tool",
+          "description": "Online tool for verify .Net regex syntax, see splits list, table etc. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-03T06:12:17Z",
+            "owner": "MichaelSL",
+            "repo": "blazor-wasm-test-012020",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Tour of Heroes",
+          "description": "Blazor Tour of Heroes, using",
+          "children": []
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Archives",
+          "description": "2021, 2020, 2019, 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T11:20:31Z",
+            "owner": "AdrienTorris",
+            "repo": "awesome-blazor",
+            "stars": 9365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor workshop",
+          "description": "Blazor app building workshop by .NET Foundation, Blazzing Pizza.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-23T23:54:59Z",
+            "owner": "dotnet-presentations",
+            "repo": "blazor-workshop",
+            "stars": 3563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextTechEvent by Coding After Work",
+          "description": "Build \"NextTechEvent\", a site that will help speakers, organizers, and attendees find their next tech event. Source code .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-25T02:51:00Z",
+            "owner": "CodingAfterWork",
+            "repo": "NextTechEvent",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "Reusable components like buttons, inputs, grids and more. See also the Blazor component bundles feature comparison chart.",
+      "items": [],
+      "title": "Libraries & Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ABP Framework",
+          "description": "ABP Framework is a complete infrastructure to create modern web applications by following the best practices and conventions of software development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:47:29Z",
+            "owner": "abpframework",
+            "repo": "abp",
+            "stars": 14400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MudBlazor",
+          "description": "MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. Documentation. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T15:06:19Z",
+            "owner": "MudBlazor",
+            "repo": "MudBlazor",
+            "stars": 10539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAST",
+          "description": "FAST is a collection of technologies built on Web Components and modern Web Standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development. FAST & Blazor documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:53:10Z",
+            "owner": "microsoft",
+            "repo": "fast",
+            "stars": 9666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ant Design Blazor",
+          "description": "A set of enterprise-class UI components based on Ant Design and Blazor. (Docs as Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T04:14:08Z",
+            "owner": "ant-design-blazor",
+            "repo": "ant-design-blazor",
+            "stars": 6185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BootstrapBlazor",
+          "description": "A set of enterprise-class UI components based on Bootstrap and Blazor (Docs as Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:37:14Z",
+            "owner": "dotnetcore",
+            "repo": "BootstrapBlazor",
+            "stars": 4859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentUI Blazor",
+          "description": "Microsoft's official FluentUI Web Components for Blazor. (Samples & demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T11:46:51Z",
+            "owner": "microsoft",
+            "repo": "fluentui-blazor",
+            "stars": 4795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radzen.Blazor",
+          "description": "Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:53:40Z",
+            "owner": "radzenhq",
+            "repo": "radzen-blazor",
+            "stars": 4332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazorise",
+          "description": "Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. (Bootstrap Demo), (Bulma Demo), (AntDesign Demo), (Material Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:26:26Z",
+            "owner": "Megabit",
+            "repo": "Blazorise",
+            "stars": 3533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatBlazor",
+          "description": "MatBlazor comprises a range of components which implement common interaction patterns according to the Material Design specification. Documents and Demo , BoilerPlates with MatBlazor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-03T20:27:51Z",
+            "owner": "SamProf",
+            "repo": "MatBlazor",
+            "stars": 2852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MASA Blazor",
+          "description": "A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. Documentation. Pro Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-12T09:05:55Z",
+            "owner": "masastack",
+            "repo": "MASA.Blazor",
+            "stars": 1328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorBootstrap",
+          "description": "High-performance, lightweight, and responsive blazor bootstrap components in a single package from the developers for the developers. (Docs as Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T19:01:58Z",
+            "owner": "vikramlearning",
+            "repo": "blazorbootstrap",
+            "stars": 1239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorStrap",
+          "description": "Material Design components for Blazor. Bootstrap 4 components for Blazor (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-03T21:31:58Z",
+            "owner": "chanan",
+            "repo": "BlazorStrap",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Element-Blazor",
+          "description": "A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. Blazor WebAssembly Version demo. Blazor WebAssembly Version PWA Mode demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-01T09:03:48Z",
+            "owner": "Element-Blazor",
+            "repo": "Element-Blazor",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAVIT Blazor",
+          "description": "Bootstrap 5 components + additional components built on top of Bootstrap 5 (grid, autosuggest, message-boxes, atc.). Enterprise project template with gRPC code-first client/server communication, localization and more. Interactive documentation & Demos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T21:33:03Z",
+            "owner": "havit",
+            "repo": "Havit.Blazor",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeBeam.MudExtensions",
+          "description": "Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more. Documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-03T20:36:26Z",
+            "owner": "CodeBeamOrg",
+            "repo": "CodeBeam.MudBlazor.Extensions",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TabBlazor",
+          "description": "Blazor Admin theme built on top of Tabler UI. Minimal javascript. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-15T14:41:39Z",
+            "owner": "TabBlazor",
+            "repo": "TabBlazor",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Blueprint",
+          "description": "A shadcn/ui inspired component library for Blazor with 75+ styled components, 15 headless primitives, and 1,640+ icons. Features a two-tier architecture with unstyled primitives for full control and pre-styled components for rapid development. Compatible with existing shadcn themes from shadcn/ui and tweakcn. Documentation and Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T03:47:58Z",
+            "owner": "blazorblueprintui",
+            "repo": "ui",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevExpress Blazor UI Components",
+          "description": "A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-06-30T10:15:39Z",
+            "owner": "DevExpress",
+            "repo": "Blazor",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Majorsoft Blazor Components",
+          "description": "Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. NuGet Demo app Docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T20:47:32Z",
+            "owner": "majorimi",
+            "repo": "blazor-components",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material.Blazor",
+          "description": "An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from Google's material-components-web - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool \"plus\" components. See our demo and comprehensive documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T19:21:54Z",
+            "owner": "Material-Blazor",
+            "repo": "Material.Blazor",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazority",
+          "description": "Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view (Docs & Demos).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-25T13:40:06Z",
+            "owner": "blazority",
+            "repo": "support",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MComponents",
+          "description": "Open Source MIT Blazor Components: Grid, Select, Wizard etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-15T15:28:31Z",
+            "owner": "manureini",
+            "repo": "MComponents",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PanoramicData Blazor UI Components",
+          "description": "An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T07:08:06Z",
+            "owner": "panoramicdata",
+            "repo": "PanoramicData.Blazor",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.WebForm.Components",
+          "description": "ASP.NET Web Forms System.Web.UI.WebControls Razor Components For Blazor WebAssembly. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-25T15:49:31Z",
+            "owner": "Jurioli",
+            "repo": "Blazor.WebForm.Components",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeoUI",
+          "description": "Production-ready shadcn/ui-inspired component library for Blazor. 100+ styled components, 15 headless primitives, 12 chart types, declarative animations, 3,200+ icons, zero-config pre-built CSS, WCAG 2.1 AA, dark mode, 85 theme combinations, and full .NET 10 Auto rendering mode. MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T14:25:48Z",
+            "owner": "jimmyps",
+            "repo": "blazor-shadcn-ui",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.Ionic",
+          "description": "Ionic framework integration for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-01-14T13:32:16Z",
+            "owner": "Kukks",
+            "repo": "Blazor.Ionic",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorOcticons",
+          "description": "Github Octicons created as a components and available via the NuGet package. The project website is an example using the generated components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-16T20:47:10Z",
+            "owner": "BlazorOcticons",
+            "repo": "BlazorOcticons",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Component bundles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Individual components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blazor.Canvas",
+          "description": "Wrapper library around the HTML canvas API written in C# (no JS dependency) (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-31T12:01:11Z",
+            "owner": "excubo-ag",
+            "repo": "Blazor.Canvas",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorIntersectionObserver",
+          "description": "This is a wrapper around the Intersection Observer API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-28T13:38:47Z",
+            "owner": "ljbc1994",
+            "repo": "BlazorIntersectionObserver",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blazor-ApexCharts",
+          "description": "Blazor wrapper for ApexCharts. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T17:58:57Z",
+            "owner": "apexcharts",
+            "repo": "Blazor-ApexCharts",
+            "stars": 1050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChartJs.Blazor",
+          "description": "Brings ChartJs charts to Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-13T12:25:13Z",
+            "owner": "mariusmuntean",
+            "repo": "ChartJs.Blazor",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plotly.Blazor",
+          "description": "Brings the charting library plotly.js with over 40 chart types to Blazor (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T04:07:49Z",
+            "owner": "LayTec-AG",
+            "repo": "Plotly.Blazor",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChartJs for Blazor",
+          "description": "This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-19T01:13:21Z",
+            "owner": "erossini",
+            "repo": "BlazorChartjs",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GG.Net Data Visualization",
+          "description": "Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T11:59:12Z",
+            "owner": "pablofrommars",
+            "repo": "GGNet",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GG.Net Data Visualization",
+          "description": "Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T11:59:12Z",
+            "owner": "pablofrommars",
+            "repo": "GGNet",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnlockedData.Chartist.Blazor",
+          "description": "Blazor wrapper for Chartist.js bundled with Chartist.js plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-02T11:01:02Z",
+            "owner": "unlockeddataltd",
+            "repo": "UnlockedData.Chartist.Blazor",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Charts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BlazorSize",
+          "description": "BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-15T19:46:03Z",
+            "owner": "EdCharbeneau",
+            "repo": "BlazorSize",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RazorStyle",
+          "description": "A small utility library to allow in-component styling without duplicate tags. Also supports programmatically triggered animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-27T06:28:26Z",
+            "owner": "wihrl",
+            "repo": "RazorStyle",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DexieNET",
+          "description": "DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component. Now with support for DexieCloud in preview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-05T15:48:04Z",
+            "owner": "b-straub",
+            "repo": "DexieNET",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EfCoreNexus",
+          "description": "EfCoreNexus helps integrating the entity framework core into your blazor app. Via reflection it adds your entitiy classes automatically and provides you with basic crud functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-25T14:11:49Z",
+            "owner": "thliborius",
+            "repo": "EfCoreNexus",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grid.Blazor",
+          "description": "Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-04T23:46:39Z",
+            "owner": "gustavnavar",
+            "repo": "Grid.Blazor",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorDatasheet",
+          "description": "Excel-like datasheet component with keyboard navigation, formula, filtering, sorting and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-28T11:53:43Z",
+            "owner": "anmcgrath",
+            "repo": "BlazorDatasheet",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorGrid",
+          "description": "Virtualized data grid component with lean markup, focused on displaying remote data. (Demo & documentation).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-14T20:47:47Z",
+            "owner": "Akinzekeel",
+            "repo": "BlazorGrid",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Datagrids / tables"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BlazorGoogleMaps",
+          "description": "Blazor interop for GoogleMap library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T05:44:27Z",
+            "owner": "rungwiroon",
+            "repo": "BlazorGoogleMaps",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnlockedData.Mapael",
+          "description": "Blazor wrapper over vector drawing/mapping library. Jquery Mapael.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-10T14:52:34Z",
+            "owner": "unlockeddataltd",
+            "repo": "UnlockedData.Mapael",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blazored.Modal",
+          "description": "A JavaScript free modal library for Blazor and Razor Components applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-06-24T16:39:47Z",
+            "owner": "Blazored",
+            "repo": "Modal",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazored.Toast",
+          "description": "A JavaScript free toast library for Blazor and Razor Component applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-05-03T11:47:03Z",
+            "owner": "Blazored",
+            "repo": "Toast",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.Sidepanel",
+          "description": "A powerful and customizable Sidepanel implementation for Blazor applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-25T10:33:08Z",
+            "owner": "Append-IT",
+            "repo": "Blazor.Sidepanel",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Modal, Toast & Notifications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bUnit - a testing library for Blazor components",
+          "description": "A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T15:27:05Z",
+            "owner": "bUnit-dev",
+            "repo": "bUnit",
+            "stars": 1303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verify.Blazor - a snapshot testing library for Blazor components",
+          "description": "A snapshot testing library for Blazor Components. Supports rendering Blazor Components to a snapshot file via bunit or via raw Blazor rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T12:16:59Z",
+            "owner": "VerifyTests",
+            "repo": "Verify.Blazor",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BlazorMonaco",
+          "description": "Blazor component for Microsoft's Monaco Editor which powers Visual Studio Code. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-28T19:17:36Z",
+            "owner": "serdarciplak",
+            "repo": "BlazorMonaco",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorContextMenu",
+          "description": "A context menu component for Blazor (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-10T20:34:14Z",
+            "owner": "stavroskasidis",
+            "repo": "BlazorContextMenu",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazored.Typeahead",
+          "description": "Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-14T20:57:00Z",
+            "owner": "Blazored",
+            "repo": "Typeahead",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor-DragDrop",
+          "description": "Easy-to-use Drag and Drop library for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-12-15T14:33:14Z",
+            "owner": "Postlagerkarte",
+            "repo": "blazor-dragdrop",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorDragDrop",
+          "description": "A simple drag-and-drop library for Blazor components.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-12-15T14:33:14Z",
+            "owner": "Postlagerkarte",
+            "repo": "blazor-dragdrop",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.FileSystemAccess",
+          "description": "A Blazor wrapper for the browser API File System Access. The API makes it possible to read and write to your local file system from the browser both files and directories. [Demo](The API makes it possible to read and write to your local file system from the browser both files and directories.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-14T19:04:06Z",
+            "owner": "KristofferStrube",
+            "repo": "Blazor.FileSystemAccess",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Razor.SweetAlert2",
+          "description": "Blazor component implementing the popular SweetAlert2 JavaScript Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T07:59:11Z",
+            "owner": "Basaingeal",
+            "repo": "Razor.SweetAlert2",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorDownloadFile",
+          "description": "Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-12-14T08:28:11Z",
+            "owner": "arivera12",
+            "repo": "BlazorDownloadFile",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorTransitionableRoute",
+          "description": "Allows current and previous route to exist enabling transition animations of UI/UX design systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-04T18:13:17Z",
+            "owner": "JByfordRew",
+            "repo": "BlazorTransitionableRoute",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActualLab.Fusion",
+          "description": "Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching. Samples. Documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T02:50:16Z",
+            "owner": "ActualLab",
+            "repo": "Fusion",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor PWA Updater",
+          "description": "Provide \"Update Now\" UI and feature to your Blazor PWA that appears when the next version of one is available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-22T11:45:12Z",
+            "owner": "jsakamoto",
+            "repo": "Toolbelt.Blazor.PWA.Updater",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEmojiSharp.Blazor",
+          "description": "GitHub Emoji for Blazor (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-09T09:30:30Z",
+            "owner": "hlaueriksson",
+            "repo": "GEmojiSharp",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorBarcodeScanner",
+          "description": "Barcode Scanner component for Blazor using zxing-js Interop. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T23:12:48Z",
+            "owner": "sabitertan",
+            "repo": "BlazorBarcodeScanner",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SignaturePad",
+          "description": "A simple to use blazor component to draw custom signatures. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-03T15:07:04Z",
+            "owner": "MarvinKlein1508",
+            "repo": "SignaturePad",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.TreeViews",
+          "description": "Component library for tree views. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-31T12:02:00Z",
+            "owner": "excubo-ag",
+            "repo": "Blazor.TreeViews",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorTreeViews",
+          "description": "A customizable tree view component for Blazor applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-31T12:02:00Z",
+            "owner": "excubo-ag",
+            "repo": "Blazor.TreeViews",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor SplitContainer",
+          "description": "A Blazor component to create panes separated by a slidable splitter bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-28T23:30:15Z",
+            "owner": "jsakamoto",
+            "repo": "Toolbelt.Blazor.SplitContainer",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorTimeline",
+          "description": "Responsive, vertical timeline component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-04T13:12:58Z",
+            "owner": "Morasiu",
+            "repo": "BlazorTimeline",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.Grids",
+          "description": "Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-31T12:00:34Z",
+            "owner": "excubo-ag",
+            "repo": "Blazor.Grids",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaMask.Blazor",
+          "description": "A library that provides an easy helper to use MetaMask with Blazor WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-19T21:01:10Z",
+            "owner": "michielpost",
+            "repo": "MetaMask.Blazor",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorSliders",
+          "description": "Create multiple panels separated by sliding splitters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-09T19:18:18Z",
+            "owner": "carlfranklin",
+            "repo": "BlazorSliders",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor File Drop Zone",
+          "description": "Surround an \"input type=file\" element by this Blazor component to making a zone that accepts drag and drops files (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-01T05:51:52Z",
+            "owner": "jsakamoto",
+            "repo": "Toolbelt.Blazor.FileDropZone",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorCurrentDevice",
+          "description": "Device detection for blazor using current-device.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-06T08:26:23Z",
+            "owner": "arivera12",
+            "repo": "BlazorCurrentDevice",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blorc.PatternFly",
+          "description": "Blazor wrappers for PatternFly. To view the latest develop branch in action, visit the demo app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-01-12T08:08:10Z",
+            "owner": "WildGums",
+            "repo": "Blorc.PatternFly",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Transition Group",
+          "description": "A library performing animations when a Blazor component enters or leaves the DOM inspired by react-transition-group.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-26T14:21:14Z",
+            "owner": "le-nn",
+            "repo": "blazor-transition-group",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorTypewriter",
+          "description": "A typewriter effect for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-19T14:33:52Z",
+            "owner": "ormesam",
+            "repo": "blazor-typewriter",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorStyledTextArea",
+          "description": "A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-13T09:32:28Z",
+            "owner": "JByfordRew",
+            "repo": "BlazorStyledTextArea",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorInputTags",
+          "description": "A simple to use blazor component for both Blazor Server and WebAssembly which adds a basic tag editor to your app. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-20T11:35:04Z",
+            "owner": "MarvinKlein1508",
+            "repo": "BlazorInputTags",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorLocalizationSample",
+          "description": "The default project template localized using XLocalizer with online translation and auto resource creating.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-21T14:35:52Z",
+            "owner": "LazZiya",
+            "repo": "XLocalizer.Samples",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorMergely",
+          "description": "An implementation of Blazor diff and merge component based on Mergely with server side support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2026-05-23T05:52:19Z",
+            "owner": "akovac35",
+            "repo": "BlazorMergely",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Texnomic.Blazor.hCaptcha",
+          "description": "hCaptcha Component for Server-Side Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-15T03:57:46Z",
+            "owner": "Texnomic",
+            "repo": "hCaptcha",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorTooltips",
+          "description": "An implementation of Bootstrap tooltips for both Blazor Server and WebAssembly. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-13T11:54:25Z",
+            "owner": "MarvinKlein1508",
+            "repo": "BlazorTooltips",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knob",
+          "description": "Knob Control for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-10-13T07:44:23Z",
+            "owner": "MelihAltintas",
+            "repo": "Blazor-Knob",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeCalc",
+          "description": "An app to help keep track of speed cubing averages on the fly using Blazor WebAssembly. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-11T19:53:07Z",
+            "owner": "michaelrp",
+            "repo": "TimeCalc",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorGravatar",
+          "description": "A Blazor component for integrating Gravatar, Blazor WASM, Server and SSR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-10T17:09:35Z",
+            "owner": "PSCourtney",
+            "repo": "BlazorGravatar",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "Libraries and extensions for state management, cookies, local storage and other specific tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fluxor",
+          "description": "Zero boilerplate Flux/Redux library for DotNet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T14:04:58Z",
+            "owner": "mrpmorris",
+            "repo": "Fluxor",
+            "stars": 1475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazored.LocalStorage",
+          "description": "A library to provide access to local storage in Blazor applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-10-09T01:35:08Z",
+            "owner": "Blazored",
+            "repo": "LocalStorage",
+            "stars": 1327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bUnit - a testing library for Blazor components",
+          "description": "A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T15:27:05Z",
+            "owner": "bUnit-dev",
+            "repo": "bUnit",
+            "stars": 1303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor-State",
+          "description": "Manage client side state in Blazor using MediatR pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T14:28:23Z",
+            "owner": "TimeWarpEngineering",
+            "repo": "timewarp-state",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextCopy",
+          "description": "A cross platform package to copy text to and from the clipboard. Supports Blazor via the Clipboard Browser API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T09:02:08Z",
+            "owner": "CopyText",
+            "repo": "TextCopy",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorWorker",
+          "description": "Library for creating DotNet Web Worker threads/multithreading in Blazor. Live demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-15T21:08:47Z",
+            "owner": "Tewr",
+            "repo": "BlazorWorker",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.BrowserExtension",
+          "description": "Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T21:07:05Z",
+            "owner": "mingyaulee",
+            "repo": "Blazor.BrowserExtension",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorGoogleMaps",
+          "description": "Blazor interop for GoogleMap library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T05:44:27Z",
+            "owner": "rungwiroon",
+            "repo": "BlazorGoogleMaps",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.FileSystemAccess",
+          "description": "A Blazor wrapper for the browser File System Access API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-14T19:04:06Z",
+            "owner": "KristofferStrube",
+            "repo": "Blazor.FileSystemAccess",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor I18n/Localization Text",
+          "description": "Localizing contents text in Blazor (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-01T05:57:06Z",
+            "owner": "jsakamoto",
+            "repo": "Toolbelt.Blazor.I18nText",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MvvmBlazor",
+          "description": "BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-14T20:48:18Z",
+            "owner": "klemmchr",
+            "repo": "MvvmBlazor",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CssBuilder",
+          "description": "CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-10T21:00:05Z",
+            "owner": "EdCharbeneau",
+            "repo": "BlazorComponentUtilities",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorApplicationInsights",
+          "description": "Application Insights for Blazor web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:39:31Z",
+            "owner": "IvanJosipovic",
+            "repo": "BlazorApplicationInsights",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cropper.Blazor",
+          "description": "Cropper.Blazor is a component that wraps around Cropper.js for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T10:45:07Z",
+            "owner": "CropperBlazor",
+            "repo": "Cropper.Blazor",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorTemplater",
+          "description": "Use components to render HTML strings for email content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-10T03:54:49Z",
+            "owner": "conficient",
+            "repo": "BlazorTemplater",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Analytics",
+          "description": "Blazor extensions for Analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-04T13:57:40Z",
+            "owner": "isc30",
+            "repo": "blazor-analytics",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Hotkeys2",
+          "description": "A library to provide configuration-centric keyboard shortcuts for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-11T23:24:49Z",
+            "owner": "jsakamoto",
+            "repo": "Toolbelt.Blazor.HotKeys2",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Printing",
+          "description": "Print and save PDF documents with a native print dialog in a Blazor Server or client Application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-26T02:06:06Z",
+            "owner": "Append-IT",
+            "repo": "Blazor.Printing",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.Polyfill",
+          "description": "Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-26T16:47:17Z",
+            "owner": "Daddoon",
+            "repo": "Blazor.Polyfill",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.EventAggregator",
+          "description": "Lightweight Event Aggregator for Blazor (Razor Components).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-10-01T10:47:23Z",
+            "owner": "mikoskinen",
+            "repo": "Blazor.EventAggregator",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DnetIndexedDb",
+          "description": "Blazor Library for IndexedDB DOM API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-16T00:49:59Z",
+            "owner": "amuste",
+            "repo": "DnetIndexedDb",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.SpeechSynthesis",
+          "description": "A library to provide Speech Synthesis API access for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-31T06:33:33Z",
+            "owner": "jsakamoto",
+            "repo": "Toolbelt.Blazor.SpeechSynthesis",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor PDF",
+          "description": "Generate de PDF document with iTextSharp from a Blazor Server App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-14T13:56:13Z",
+            "owner": "tossnet",
+            "repo": "Blazor-PDF",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazm.Bluetooth",
+          "description": "A Blazor library for connecting to devices using Bluetooth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T14:58:36Z",
+            "owner": "EngstromJimmy",
+            "repo": "Blazm.Bluetooth",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorRouter",
+          "description": "BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-11T21:46:31Z",
+            "owner": "hez2010",
+            "repo": "BlazorRouter",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorAntivirusProtection",
+          "description": "Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-10T23:09:19Z",
+            "owner": "stavroskasidis",
+            "repo": "BlazorWasmAntivirusProtection",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.LocalFiles",
+          "description": "Open files in your browser and load into Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-31T20:45:04Z",
+            "owner": "jburman",
+            "repo": "W8lessLabs.Blazor.LocalFiles",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memento",
+          "description": "A simple client-side state management container for Blazor/.NET includes redo/undo and ReduxDevTools support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-19T06:24:31Z",
+            "owner": "le-nn",
+            "repo": "memento",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor-Color-Picker",
+          "description": "Opens a palette with the Material colors for Blazor application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-10T06:13:00Z",
+            "owner": "tossnet",
+            "repo": "Blazor-Color-Picker",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorPrettyCode",
+          "description": "Blazor Code Component for documentation sites. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-17T21:29:24Z",
+            "owner": "chanan",
+            "repo": "BlazorPrettyCode",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Gamepad",
+          "description": "Provides gamepad API access for Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-11T23:35:07Z",
+            "owner": "jsakamoto",
+            "repo": "Toolbelt.Blazor.Gamepad",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataJuggler.Blazor.FileUpload",
+          "description": "Wrapper for Steve Sanderson's BlazorFileInput component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-20T10:21:40Z",
+            "owner": "DataJuggler",
+            "repo": "BlazorFileUpload",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Highcharts",
+          "description": "A port of the popular Highcharts library. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-12T15:21:19Z",
+            "owner": "Allegiance-Consulting",
+            "repo": "blazor-highcharts",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Howler.Blazor",
+          "description": "A Blazor JSInterop wrapper for Howler.js, an audio library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-14T17:39:58Z",
+            "owner": "StefH",
+            "repo": "Howler.Blazor",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorState.Redux",
+          "description": "Develop Blazor apps with Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T14:52:45Z",
+            "owner": "BerserkerDotNet",
+            "repo": "BlazorState",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phork.Blazor.Reactivity",
+          "description": "An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-12T13:51:27Z",
+            "owner": "phorks",
+            "repo": "phork-blazor-reactivity",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.ScriptInjection",
+          "description": "Smart script tags in Blazor components, ideal for lazy loading of javascript files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-14T16:17:11Z",
+            "owner": "excubo-ag",
+            "repo": "Blazor.ScriptInjection",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsMind.Blazor",
+          "description": "A Blazor JSInterop wrapper for jsMind, a MindMapping tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-01T05:20:53Z",
+            "owner": "StefH",
+            "repo": "jsMind.Blazor",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.LazyStyleSheet",
+          "description": "Lazy loading for CSS style sheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-30T13:07:31Z",
+            "owner": "excubo-ag",
+            "repo": "Blazor.LazyStyleSheet",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorIndexedDbJs",
+          "description": "BlazorIndexedDbJs is a wrapper arround IndexedDB DOM API, supports Blazor WASM and Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-01-16T07:28:49Z",
+            "owner": "kattunga",
+            "repo": "BlazorIndexedDbJs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeBeam.GoogleApis.Blazor",
+          "description": "An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-28T19:46:38Z",
+            "owner": "CodeBeamOrg",
+            "repo": "CodeBeam.GoogleApis.Blazor",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediaSession.Blazor",
+          "description": "A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-17T08:33:15Z",
+            "owner": "zuozishi",
+            "repo": "MediaSession.Blazor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxBlazorLight",
+          "description": "RxBlazorLight is a simple reactive wrapper around Blazor components. For now only MudBlazor components are supported. Build the RxMudBlazorLightSample and enjoy the reactive Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-30T09:59:59Z",
+            "owner": "b-straub",
+            "repo": "RxBlazorLight",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebBluetooth",
+          "description": "Blazor service for the experimental WebBluetooth functions. Based on Blazm.Bluetooth.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-12-08T15:25:34Z",
+            "owner": "KeudellCoding",
+            "repo": "Blazor.WebBluetooth",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tools & Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bolero",
+          "description": "Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-08-11T16:58:42Z",
+            "owner": "fsbolero",
+            "repo": "Bolero",
+            "stars": 1130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorFabric",
+          "description": "Blazor port of Microsoft UI Fabric with fluent design. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-03-25T22:18:19Z",
+            "owner": "BlazorFluentUI",
+            "repo": "BlazorFluentUI",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fun.Blazor",
+          "description": "This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-05-21T07:51:56Z",
+            "owner": "slaveOftime",
+            "repo": "Fun.Blazor",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazork8s",
+          "description": "Manage k8s using balzor with AI,like kubernetes dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-11T14:41:17Z",
+            "owner": "weibaohui",
+            "repo": "blazork8s",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EventHorizon Blazor TypeScript Interop Generator",
+          "description": "This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-03T03:46:29Z",
+            "owner": "canhorn",
+            "repo": "EventHorizon.Blazor.TypeScript.Interop.Generator",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorWebView",
+          "description": "Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. Documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-07T15:41:51Z",
+            "owner": "jspuij",
+            "repo": "TwokaB",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorLazyLoading",
+          "description": "Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-23T12:50:38Z",
+            "owner": "isc30",
+            "repo": "blazor-lazy-loading",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generators.Blazor",
+          "description": "Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-31T12:09:00Z",
+            "owner": "excubo-ag",
+            "repo": "Generators.Blazor",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Extensions Home",
+          "description": "Home for Blazor Extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-29T17:05:56Z",
+            "owner": "BlazorExtensions",
+            "repo": "Home",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.DownloadFileFast",
+          "description": "Fast download of files to the browser from Blazor without any javascript library reference or dependency. (Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-13T04:55:12Z",
+            "owner": "StefH",
+            "repo": "Blazor.DownloadFileFast",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.DynamicJavascriptRuntime.Evaluator",
+          "description": "Execute dynamic object expressions as Javascript in Blazor client-side apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-03T19:00:01Z",
+            "owner": "jameschch",
+            "repo": "Blazor.DynamicJavascriptRuntime.Evaluator",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpotifyService",
+          "description": "A high-level Spotify API library for Blazor WebAssembly projects that enables Spotify playback in the browser, manages OAuth 2.0 authorization, provides easy access to the Spotify Web API and uses IndexedDB caching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-16T12:50:12Z",
+            "owner": "tresoneur",
+            "repo": "SpotifyService",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BlazorOcticons",
+          "description": "Github Octicons created as a .razor components using source generator. The generated components are available via the NuGet package, the generator itself is available as a separate NuGet package. The project website is an example using the generated components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-16T20:47:10Z",
+            "owner": "BlazorOcticons",
+            "repo": "BlazorOcticons",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorInteropGenerator",
+          "description": "Github Octicons Generates Blazor -> Javascript strongly typed interop methods, by parsing the Javascript it self and generating extension methods for IJSRuntime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-20T22:06:36Z",
+            "owner": "surgicalcoder",
+            "repo": "BlazorInteropGenerator",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RazorPageRouteGenerator",
+          "description": "Generates methods with parameters for Razor and Blazor pages, so you can navigate without having to guess URLs or parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:57:57Z",
+            "owner": "surgicalcoder",
+            "repo": "RazorPageRouteGenerator",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Source generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Try .NET",
+          "description": "Try .NET provides developers and content authors with tools to create interactive experiences.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-12-03T01:28:29Z",
+            "owner": "dotnet",
+            "repo": "try",
+            "stars": 3015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FairPlayCombined",
+          "description": "The FairPlay platform is a set of pre-built customizable solutions created with Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-12T00:11:34Z",
+            "owner": "pticostaricags",
+            "repo": "FairPlayCombined",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Real-World applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Publish-time Pre-render for Blazor Wasm",
+          "description": "When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T13:09:42Z",
+            "owner": "jsakamoto",
+            "repo": "BlazorWasmPreRendering.Build",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor REPL",
+          "description": "Write, compile, execute and share Blazor components entirely in the browser - https://blazorrepl.com.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-10-27T10:08:57Z",
+            "owner": "BlazorRepl",
+            "repo": "BlazorRepl",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebCompiler",
+          "description": "A dotnet global tool for compilation, minification, and compression of scss, css and js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-31T11:56:24Z",
+            "owner": "excubo-ag",
+            "repo": "WebCompiler",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Publish SPA for GitHub Pages",
+          "description": "Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-20T13:33:42Z",
+            "owner": "jsakamoto",
+            "repo": "PublishSPAforGitHubPages.Build",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveSharp",
+          "description": "Update files and see the updates instantly without reloading the page. Your application state is preserved because there is no need to reload anything. livesharp.net.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-16T12:19:28Z",
+            "owner": "ionoy",
+            "repo": "LiveSharp",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Minimum Project Templates",
+          "description": "A project templates package of Blazor apps without JavaScript and CSS libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-16T23:54:13Z",
+            "owner": "jsakamoto",
+            "repo": "BlazorMinimumTemplates",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tracetool",
+          "description": "Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-07-26T15:46:58Z",
+            "owner": "capslock66",
+            "repo": "Tracetool",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghostly Hosting",
+          "description": "An interactive CLI tool that turns a fresh Ubuntu VPS into a production-ready hosting environment for Blazor Server apps with automatic SSL, DNS, GitHub deployments, and nginx reverse-proxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-10T07:13:59Z",
+            "owner": "Nix1983",
+            "repo": "Ghostly-Hosting",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Archives",
+          "description": "2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T11:20:31Z",
+            "owner": "AdrienTorris",
+            "repo": "awesome-blazor",
+            "stars": 9365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor, A Beginners Guide",
+          "description": "March 18, 2020 - A free e-book for getting started with the Blazor framework. Examples source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-03T17:39:52Z",
+            "owner": "EdCharbeneau",
+            "repo": "BlazorBookExamples",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "E-Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free Blazor Training Course",
+          "description": "DevExpress Blazor free training course Source code .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-12-21T05:46:41Z",
+            "owner": "DevExpress",
+            "repo": "blazor-training-samples",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor First Look on LinkedIn Learning",
+          "description": "Blazor First Look on LinkedIn Learning. Source code .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-08T14:57:41Z",
+            "owner": "Dedac",
+            "repo": "Beam",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Practical samples of Blazor",
+          "description": "Practical samples of Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:55:14Z",
+            "owner": "dodyg",
+            "repo": "practical-aspnetcore",
+            "stars": 10406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Practical samples of Blazor Server-Side",
+          "description": "Practical samples of Blazor Server-Side.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:55:14Z",
+            "owner": "dodyg",
+            "repo": "practical-aspnetcore",
+            "stars": 10406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I Love DotNet",
+          "description": "- This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. ilovedotnet.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-05T10:00:43Z",
+            "owner": "ILoveDotNet",
+            "repo": "ilovedotnet",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": "To the extent possible under law, Adrien Torris has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:58.297Z",
+    "original_repository": "AdrienTorris/awesome-blazor",
+    "original_repository_sha": "cf02d27519d4b52361846ca0ec64935693dfaa3f",
+    "enhanced_repository": "enhansome/enhansome-blazor",
+    "enhanced_repository_description": null,
+    "title": "Awesome Blazor with stars"
+  }
+}
