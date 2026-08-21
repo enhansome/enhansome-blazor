@@ -12,10 +12,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-20T03:38:29Z",
+            "last_commit": "2026-08-21T00:06:55Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38381
+            "stars": 38387
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T20:03:17Z",
             "owner": "dotnet",
             "repo": "eShop",
-            "stars": 10782
+            "stars": 10784
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2021-02-23T15:13:56Z",
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9270
+            "stars": 9269
           }
         }
       ],
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 71365344,
             "language": "C#",
-            "last_commit": "2026-08-19T09:51:58Z",
+            "last_commit": "2026-08-20T19:50:25Z",
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1369
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-11T23:57:36Z",
             "owner": "neozhu",
             "repo": "CleanArchitectureWithBlazorServer",
-            "stars": 1230
+            "stars": 1231
           }
         },
         {
@@ -183,7 +183,7 @@
                 "archived": false,
                 "id": 206938663,
                 "language": "C#",
-                "last_commit": "2026-08-19T06:16:57Z",
+                "last_commit": "2026-08-21T03:25:50Z",
                 "owner": "Aguafrommars",
                 "repo": "TheIdServer",
                 "stars": 757
@@ -213,7 +213,7 @@
                 "archived": false,
                 "id": 239955054,
                 "language": "C#",
-                "last_commit": "2026-08-19T17:37:50Z",
+                "last_commit": "2026-08-20T17:38:19Z",
                 "owner": "WildGums",
                 "repo": "Blorc.OpenIdConnect",
                 "stars": 97
@@ -265,10 +265,10 @@
                 "archived": false,
                 "id": 184955742,
                 "language": "C#",
-                "last_commit": "2026-08-17T20:15:17Z",
+                "last_commit": "2026-08-20T12:42:57Z",
                 "owner": "oqtane",
                 "repo": "oqtane.framework",
-                "stars": 2252
+                "stars": 2251
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2026-05-08T08:45:41Z",
                 "owner": "YodasMyDad",
                 "repo": "ZauberCMS",
-                "stars": 111
+                "stars": 112
               }
             }
           ],
@@ -678,7 +678,7 @@
                 "last_commit": "2026-07-05T06:33:06Z",
                 "owner": "dotnetcore",
                 "repo": "WTM",
-                "stars": 4351
+                "stars": 4350
               }
             },
             {
@@ -690,10 +690,10 @@
                 "archived": false,
                 "id": 184955742,
                 "language": "C#",
-                "last_commit": "2026-08-17T20:15:17Z",
+                "last_commit": "2026-08-20T12:42:57Z",
                 "owner": "oqtane",
                 "repo": "oqtane.framework",
-                "stars": 2252
+                "stars": 2251
               }
             }
           ],
@@ -715,7 +715,7 @@
                 "last_commit": "2026-02-12T09:29:50Z",
                 "owner": "davidfowl",
                 "repo": "TodoApp",
-                "stars": 3102
+                "stars": 3103
               }
             },
             {
@@ -767,7 +767,7 @@
                 "last_commit": "2024-07-31T13:54:53Z",
                 "owner": "fullstackhero",
                 "repo": "blazor-starter-kit",
-                "stars": 3573
+                "stars": 3574
               }
             },
             {
@@ -1198,7 +1198,7 @@
             "last_commit": "2026-07-25T11:20:31Z",
             "owner": "AdrienTorris",
             "repo": "awesome-blazor",
-            "stars": 9369
+            "stars": 9370
           }
         },
         {
@@ -1248,10 +1248,10 @@
                 "archived": false,
                 "id": 75505125,
                 "language": "C#",
-                "last_commit": "2026-08-19T14:22:55Z",
+                "last_commit": "2026-08-21T02:37:23Z",
                 "owner": "abpframework",
                 "repo": "abp",
-                "stars": 14409
+                "stars": 14410
               }
             },
             {
@@ -1263,10 +1263,10 @@
                 "archived": false,
                 "id": 288428676,
                 "language": "C#",
-                "last_commit": "2026-08-19T09:10:51Z",
+                "last_commit": "2026-08-21T02:38:24Z",
                 "owner": "MudBlazor",
                 "repo": "MudBlazor",
-                "stars": 10558
+                "stars": 10560
               }
             },
             {
@@ -1308,7 +1308,7 @@
                 "archived": false,
                 "id": 248729850,
                 "language": "C#",
-                "last_commit": "2026-08-18T13:32:38Z",
+                "last_commit": "2026-08-21T03:47:53Z",
                 "owner": "dotnetcore",
                 "repo": "BootstrapBlazor",
                 "stars": 4860
@@ -1323,10 +1323,10 @@
                 "archived": false,
                 "id": 348132133,
                 "language": "C#",
-                "last_commit": "2026-08-19T14:04:00Z",
+                "last_commit": "2026-08-20T18:20:27Z",
                 "owner": "microsoft",
                 "repo": "fluentui-blazor",
-                "stars": 4796
+                "stars": 4797
               }
             },
             {
@@ -1338,7 +1338,7 @@
                 "archived": false,
                 "id": 169556401,
                 "language": "C#",
-                "last_commit": "2026-08-19T13:31:56Z",
+                "last_commit": "2026-08-20T13:36:26Z",
                 "owner": "radzenhq",
                 "repo": "radzen-blazor",
                 "stars": 4337
@@ -1353,7 +1353,7 @@
                 "archived": false,
                 "id": 159973917,
                 "language": "C#",
-                "last_commit": "2026-08-19T08:04:46Z",
+                "last_commit": "2026-08-20T21:00:11Z",
                 "owner": "Megabit",
                 "repo": "Blazorise",
                 "stars": 3531
@@ -1398,7 +1398,7 @@
                 "archived": false,
                 "id": 401061956,
                 "language": "HTML",
-                "last_commit": "2026-08-19T18:18:54Z",
+                "last_commit": "2026-08-20T19:44:04Z",
                 "owner": "vikramlearning",
                 "repo": "blazorbootstrap",
                 "stars": 1240
@@ -2048,7 +2048,7 @@
                     "archived": false,
                     "id": 272121694,
                     "language": "C#",
-                    "last_commit": "2026-08-18T09:40:57Z",
+                    "last_commit": "2026-08-21T00:21:31Z",
                     "owner": "VerifyTests",
                     "repo": "Verify.Blazor",
                     "stars": 35
@@ -2205,10 +2205,10 @@
                     "archived": false,
                     "id": 731816246,
                     "language": "C#",
-                    "last_commit": "2026-08-18T11:47:21Z",
+                    "last_commit": "2026-08-21T00:51:29Z",
                     "owner": "ActualLab",
                     "repo": "Fusion",
-                    "stars": 172
+                    "stars": 174
                   }
                 },
                 {
@@ -2667,7 +2667,7 @@
                 "archived": false,
                 "id": 144966848,
                 "language": "C#",
-                "last_commit": "2026-07-23T09:02:08Z",
+                "last_commit": "2026-08-21T00:17:37Z",
                 "owner": "CopyText",
                 "repo": "TextCopy",
                 "stars": 570
@@ -3519,7 +3519,7 @@
             "last_commit": "2025-12-03T01:28:29Z",
             "owner": "dotnet",
             "repo": "try",
-            "stars": 3013
+            "stars": 3012
           }
         },
         {
@@ -3681,7 +3681,7 @@
             "last_commit": "2026-07-25T11:20:31Z",
             "owner": "AdrienTorris",
             "repo": "awesome-blazor",
-            "stars": 9369
+            "stars": 9370
           }
         },
         {
@@ -3780,7 +3780,7 @@
             "archived": false,
             "id": 429075097,
             "language": "HTML",
-            "last_commit": "2026-08-17T13:58:24Z",
+            "last_commit": "2026-08-20T17:27:41Z",
             "owner": "ILoveDotNet",
             "repo": "ilovedotnet",
             "stars": 154
@@ -3791,7 +3791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:54:36.052Z",
+    "last_updated": "2026-08-21T03:57:07.371Z",
     "original_repository": "AdrienTorris/awesome-blazor",
     "original_repository_id": 127247098,
     "original_repository_sha": "cf02d27519d4b52361846ca0ec64935693dfaa3f",
