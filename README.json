@@ -12,10 +12,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-23T10:27:52Z",
+            "last_commit": "2026-08-24T13:28:15Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38390
+            "stars": 38392
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 71365344,
             "language": "C#",
-            "last_commit": "2026-08-24T03:37:07Z",
+            "last_commit": "2026-08-24T12:59:53Z",
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1370
@@ -183,7 +183,7 @@
                 "archived": false,
                 "id": 206938663,
                 "language": "C#",
-                "last_commit": "2026-08-22T03:11:53Z",
+                "last_commit": "2026-08-24T09:21:12Z",
                 "owner": "Aguafrommars",
                 "repo": "TheIdServer",
                 "stars": 757
@@ -265,7 +265,7 @@
                 "archived": false,
                 "id": 184955742,
                 "language": "C#",
-                "last_commit": "2026-08-21T20:40:07Z",
+                "last_commit": "2026-08-24T12:47:03Z",
                 "owner": "oqtane",
                 "repo": "oqtane.framework",
                 "stars": 2252
@@ -564,6 +564,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Picat Language IDE",
+              "description": "IDE for the Picat logic programming language based on the Monaco Editor. Demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381141245,
+                "language": "C#",
+                "last_commit": "2026-03-17T19:23:06Z",
+                "owner": "andrzejolszak",
+                "repo": "picat-blazor-monaco-ide",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PresenceLight",
               "description": "PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. Blog post. Demo video.",
               "children": [],
@@ -690,7 +712,7 @@
                 "archived": false,
                 "id": 184955742,
                 "language": "C#",
-                "last_commit": "2026-08-21T20:40:07Z",
+                "last_commit": "2026-08-24T12:47:03Z",
                 "owner": "oqtane",
                 "repo": "oqtane.framework",
                 "stars": 2252
@@ -727,7 +749,7 @@
                 "archived": false,
                 "id": 718796532,
                 "language": "C#",
-                "last_commit": "2026-08-23T21:43:00Z",
+                "last_commit": "2026-08-24T11:06:17Z",
                 "owner": "Jinjinov",
                 "repo": "OpenHabitTracker",
                 "stars": 273
@@ -1198,7 +1220,7 @@
             "last_commit": "2026-07-25T11:20:31Z",
             "owner": "AdrienTorris",
             "repo": "awesome-blazor",
-            "stars": 9372
+            "stars": 9373
           }
         },
         {
@@ -1248,10 +1270,10 @@
                 "archived": false,
                 "id": 75505125,
                 "language": "C#",
-                "last_commit": "2026-08-24T03:58:41Z",
+                "last_commit": "2026-08-24T13:02:00Z",
                 "owner": "abpframework",
                 "repo": "abp",
-                "stars": 14413
+                "stars": 14415
               }
             },
             {
@@ -1263,10 +1285,10 @@
                 "archived": false,
                 "id": 288428676,
                 "language": "C#",
-                "last_commit": "2026-08-24T01:20:01Z",
+                "last_commit": "2026-08-24T13:51:06Z",
                 "owner": "MudBlazor",
                 "repo": "MudBlazor",
-                "stars": 10559
+                "stars": 10557
               }
             },
             {
@@ -1308,10 +1330,10 @@
                 "archived": false,
                 "id": 248729850,
                 "language": "C#",
-                "last_commit": "2026-08-24T03:41:41Z",
+                "last_commit": "2026-08-24T08:27:15Z",
                 "owner": "dotnetcore",
                 "repo": "BootstrapBlazor",
-                "stars": 4861
+                "stars": 4860
               }
             },
             {
@@ -1323,7 +1345,7 @@
                 "archived": false,
                 "id": 348132133,
                 "language": "C#",
-                "last_commit": "2026-08-23T18:25:08Z",
+                "last_commit": "2026-08-24T13:34:27Z",
                 "owner": "microsoft",
                 "repo": "fluentui-blazor",
                 "stars": 4799
@@ -1338,10 +1360,10 @@
                 "archived": false,
                 "id": 169556401,
                 "language": "C#",
-                "last_commit": "2026-08-23T07:24:01Z",
+                "last_commit": "2026-08-24T06:56:45Z",
                 "owner": "radzenhq",
                 "repo": "radzen-blazor",
-                "stars": 4339
+                "stars": 4340
               }
             },
             {
@@ -1353,7 +1375,7 @@
                 "archived": false,
                 "id": 159973917,
                 "language": "C#",
-                "last_commit": "2026-08-23T12:58:15Z",
+                "last_commit": "2026-08-24T09:09:13Z",
                 "owner": "Megabit",
                 "repo": "Blazorise",
                 "stars": 3531
@@ -1386,7 +1408,7 @@
                 "last_commit": "2026-06-12T09:05:55Z",
                 "owner": "masastack",
                 "repo": "MASA.Blazor",
-                "stars": 1328
+                "stars": 1327
               }
             },
             {
@@ -1398,7 +1420,7 @@
                 "archived": false,
                 "id": 401061956,
                 "language": "HTML",
-                "last_commit": "2026-08-22T12:49:53Z",
+                "last_commit": "2026-08-24T06:50:46Z",
                 "owner": "vikramlearning",
                 "repo": "blazorbootstrap",
                 "stars": 1243
@@ -1652,6 +1674,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "BabylonBlazor",
+              "description": "This library packages the well-known 3D library Babylon.js into a Razor component that can be used in a C# Blazor project. The library is intended to use for creation of molecules visualization and used limited API of Babylon library. Demo application which is showing different parts of library Pubchem Viewer. Show chemical information from pubchem.ncbi.nlm.nih.gov.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380507257,
+                "language": "C#",
+                "last_commit": "2026-02-08T14:07:23Z",
+                "owner": "AlexNek",
+                "repo": "BabylonBlazor",
+                "stars": 86
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1900,7 +1937,7 @@
                     "archived": false,
                     "id": 523992386,
                     "language": "C#",
-                    "last_commit": "2026-08-23T01:28:12Z",
+                    "last_commit": "2026-08-24T10:39:05Z",
                     "owner": "anmcgrath",
                     "repo": "BlazorDatasheet",
                     "stars": 358
@@ -1925,6 +1962,72 @@
               "description": null,
               "node_type": "group",
               "title": "Datagrids / tables"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BlazorDateRangePicker",
+                  "description": "A date range picker component library for Blazor. Demo.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198690507,
+                    "language": "HTML",
+                    "last_commit": "2025-10-07T17:31:15Z",
+                    "owner": "jdtcn",
+                    "repo": "BlazorDateRangePicker",
+                    "stars": 208
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Date & time"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Excubo.Blazor.Diagrams",
+                  "description": "Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). Demo.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 271816539,
+                    "language": "HTML",
+                    "last_commit": "2026-05-31T12:01:52Z",
+                    "owner": "excubo-ag",
+                    "repo": "Blazor.Diagrams",
+                    "stars": 161
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Diagrams"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BlazorScriptReload",
+                  "description": "A component which provides support for using JavaScript in Blazor Web Applications",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 910110612,
+                    "language": "JavaScript",
+                    "last_commit": "2025-06-27T16:22:27Z",
+                    "owner": "devessenceinc",
+                    "repo": "BlazorScriptReload",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JavaScript"
             },
             {
               "children": [
@@ -2022,6 +2125,43 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Blazouter",
+              "description": "Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built-in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1098659350,
+                "language": "C#",
+                "last_commit": "2026-08-02T03:38:49Z",
+                "owner": "Taiizor",
+                "repo": "Blazouter",
+                "stars": 70
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BlazorXTabs",
+                  "description": "An extended tabs component library providing various tab features for Blazor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 312710447,
+                    "language": "C#",
+                    "last_commit": "2026-05-12T13:34:23Z",
+                    "owner": "David-Moreira",
+                    "repo": "BlazorXTabs",
+                    "stars": 39
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tabs"
+            },
             {
               "children": [
                 {
@@ -2148,7 +2288,7 @@
                     "last_commit": "2026-04-14T19:04:06Z",
                     "owner": "KristofferStrube",
                     "repo": "Blazor.FileSystemAccess",
-                    "stars": 373
+                    "stars": 372
                   }
                 },
                 {
@@ -2160,7 +2300,7 @@
                     "archived": false,
                     "id": 191960073,
                     "language": "C#",
-                    "last_commit": "2026-08-11T07:59:11Z",
+                    "last_commit": "2026-08-24T07:59:25Z",
                     "owner": "Basaingeal",
                     "repo": "Razor.SweetAlert2",
                     "stars": 213
@@ -2610,7 +2750,7 @@
                 "last_commit": "2026-08-03T14:04:58Z",
                 "owner": "mrpmorris",
                 "repo": "Fluxor",
-                "stars": 1475
+                "stars": 1474
               }
             },
             {
@@ -2730,7 +2870,7 @@
                 "last_commit": "2026-04-14T19:04:06Z",
                 "owner": "KristofferStrube",
                 "repo": "Blazor.FileSystemAccess",
-                "stars": 373
+                "stars": 372
               }
             },
             {
@@ -3545,6 +3685,90 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Archives",
+          "description": "2023, 2022, 2021, 2020, 2019, 2018, 2017.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127247098,
+            "language": null,
+            "last_commit": "2026-07-25T11:20:31Z",
+            "owner": "AdrienTorris",
+            "repo": "awesome-blazor",
+            "stars": 9373
+          }
+        }
+      ],
+      "title": "Videos"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Archives",
+          "description": "2023, 2022, 2021, 2020, 2019, 2018, 2017.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127247098,
+            "language": null,
+            "last_commit": "2026-07-25T11:20:31Z",
+            "owner": "AdrienTorris",
+            "repo": "awesome-blazor",
+            "stars": 9373
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Archives",
+          "description": "2021, 2020, 2019, 2018, 2017.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127247098,
+            "language": null,
+            "last_commit": "2026-07-25T11:20:31Z",
+            "owner": "AdrienTorris",
+            "repo": "awesome-blazor",
+            "stars": 9373
+          }
+        }
+      ],
+      "title": "Podcasts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Archives",
+          "description": "2020, 2019, 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127247098,
+            "language": null,
+            "last_commit": "2026-07-25T11:20:31Z",
+            "owner": "AdrienTorris",
+            "repo": "awesome-blazor",
+            "stars": 9373
+          }
+        }
+      ],
+      "title": "Presentations slides"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Publish-time Pre-render for Blazor Wasm",
           "description": "When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.",
           "children": [],
@@ -3681,7 +3905,7 @@
             "last_commit": "2026-07-25T11:20:31Z",
             "owner": "AdrienTorris",
             "repo": "awesome-blazor",
-            "stars": 9372
+            "stars": 9373
           }
         },
         {
@@ -3791,7 +4015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:40.930Z",
+    "last_updated": "2026-08-24T13:54:00.326Z",
     "original_repository": "AdrienTorris/awesome-blazor",
     "original_repository_id": 127247098,
     "original_repository_sha": "cf02d27519d4b52361846ca0ec64935693dfaa3f",
