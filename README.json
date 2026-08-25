@@ -12,7 +12,7 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-24T23:10:29Z",
+            "last_commit": "2026-08-25T03:58:14Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38391
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 71365344,
             "language": "C#",
-            "last_commit": "2026-08-24T17:28:55Z",
+            "last_commit": "2026-08-25T05:45:57Z",
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1370
@@ -1270,7 +1270,7 @@
                 "archived": false,
                 "id": 75505125,
                 "language": "C#",
-                "last_commit": "2026-08-25T03:17:53Z",
+                "last_commit": "2026-08-25T04:55:45Z",
                 "owner": "abpframework",
                 "repo": "abp",
                 "stars": 14416
@@ -1766,7 +1766,7 @@
                     "archived": false,
                     "id": 259607657,
                     "language": "C#",
-                    "last_commit": "2026-08-21T04:06:24Z",
+                    "last_commit": "2026-08-25T04:12:26Z",
                     "owner": "LayTec-AG",
                     "repo": "Plotly.Blazor",
                     "stars": 431
@@ -4015,7 +4015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:55:15.060Z",
+    "last_updated": "2026-08-25T05:46:21.145Z",
     "original_repository": "AdrienTorris/awesome-blazor",
     "original_repository_id": 127247098,
     "original_repository_sha": "cf02d27519d4b52361846ca0ec64935693dfaa3f",
