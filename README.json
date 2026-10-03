@@ -15,8 +15,8 @@
             "id": 17620347,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:02:08Z",
-            "open_issues": 4215,
+            "last_commit": "2026-10-02T17:19:31Z",
+            "open_issues": 4206,
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38464,
@@ -45,7 +45,7 @@
             "open_issues": 123,
             "owner": "dotnet",
             "repo": "eShop",
-            "stars": 10927,
+            "stars": 10930,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:02.825Z"
@@ -66,7 +66,7 @@
             "open_issues": 0,
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9260,
+            "stars": 9257,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:02.825Z"
@@ -89,7 +89,7 @@
             "id": 71365344,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T04:24:03Z",
+            "last_commit": "2026-10-02T15:39:07Z",
             "open_issues": 131,
             "owner": "bitfoundation",
             "repo": "bitplatform",
@@ -127,7 +127,7 @@
             "open_issues": 0,
             "owner": "neozhu",
             "repo": "CleanArchitectureWithBlazorServer",
-            "stars": 1234,
+            "stars": 1235,
             "topics": [
               "best-practices",
               "blazor-boilerplate",
@@ -735,7 +735,7 @@
                 "open_issues": 14,
                 "owner": "ThomasBleijendaal",
                 "repo": "RapidCMS",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "asp-net-core",
                   "blazor",
@@ -1010,7 +1010,7 @@
             {
               "node_type": "item",
               "title": "Blazor Puzzle #3 - File not found",
-              "description": null,
+              "description": "BlazorPuzzle/Puzzle-3",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1051,7 +1051,7 @@
                 "open_issues": 44,
                 "owner": "tryphotino",
                 "repo": "photino.NET",
-                "stars": 1347,
+                "stars": 1348,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:02.825Z"
@@ -1248,7 +1248,7 @@
                 "open_issues": 210,
                 "owner": "dotnet",
                 "repo": "machinelearning-samples",
-                "stars": 4685,
+                "stars": 4684,
                 "topics": [
                   "algorithms",
                   "csharp",
@@ -1316,22 +1316,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Machine Learning over historical baseball data using latest Microsoft AI & Development technology stack (.Net Core & Blazor)",
-                "homepage": "https://baseballmlworkbench.azurefd.net/",
+                "description": "AI & Machine Learning over historical baseball data using latest Microsoft AI & .NET Development Technologies",
+                "homepage": "https://baseballaiworkbench-dybyfmbvg8hdctds.b02.azurefd.net/",
                 "id": 192998061,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:20:15Z",
+                "last_commit": "2026-10-02T21:05:20Z",
                 "open_issues": 1,
                 "owner": "bartczernicki",
                 "repo": "MachineLearning-BaseballPrediction-BlazorApp",
                 "stars": 55,
                 "topics": [
+                  "agent-retrieval",
                   "artificial-intelligence",
                   "baseball-statistics",
                   "blazor",
                   "machine-learning",
-                  "moneyball"
+                  "moneyball",
+                  "webiq"
                 ]
               },
               "first_seen": "2026-08-28T15:16:02.825Z"
@@ -1462,7 +1464,7 @@
                 "open_issues": 4,
                 "owner": "Jinjinov",
                 "repo": "OpenHabitTracker",
-                "stars": 289,
+                "stars": 292,
                 "topics": [
                   "blazor",
                   "blazor-server",
@@ -1504,7 +1506,7 @@
                 "open_issues": 0,
                 "owner": "Jinjinov",
                 "repo": "Ididit",
-                "stars": 233,
+                "stars": 232,
                 "topics": [
                   "asp-net-core",
                   "aspnet-core",
@@ -1616,7 +1618,7 @@
                 "open_issues": 74,
                 "owner": "aspnet",
                 "repo": "samples",
-                "stars": 1015,
+                "stars": 1013,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:02.825Z"
@@ -2334,48 +2336,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Archives",
-          "description": "2021, 2020, 2019, 2018.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
-            "homepage": null,
-            "id": 127247098,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-01T08:44:47Z",
-            "open_issues": 90,
-            "owner": "AdrienTorris",
-            "repo": "awesome-blazor",
-            "stars": 9376,
-            "topics": [
-              "asp-net-core",
-              "aspnetcore",
-              "awesome",
-              "awesome-list",
-              "blazor",
-              "blazor-application",
-              "blazor-component",
-              "blazor-crud",
-              "blazor-interop",
-              "blazor-master",
-              "blazor-port",
-              "blazor-sample",
-              "blazor-web",
-              "csharp",
-              "dotnet-core",
-              "microsoft",
-              "microsoft-blazor",
-              "razor",
-              "razor-components",
-              "webassembly"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:02.825Z"
-        },
-        {
-          "node_type": "item",
           "title": "Blazor workshop",
           "description": "Blazor app building workshop by .NET Foundation, Blazzing Pizza.",
           "children": [],
@@ -2390,7 +2350,7 @@
             "open_issues": 50,
             "owner": "dotnet-presentations",
             "repo": "blazor-workshop",
-            "stars": 3562,
+            "stars": 3561,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:02.825Z"
@@ -2436,11 +2396,11 @@
                 "id": 75505125,
                 "language": "C#",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-01T10:00:10Z",
+                "last_commit": "2026-10-02T12:12:01Z",
                 "open_issues": 309,
                 "owner": "abpframework",
                 "repo": "abp",
-                "stars": 14443,
+                "stars": 14444,
                 "topics": [
                   "abp",
                   "angular",
@@ -2473,11 +2433,11 @@
                 "id": 288428676,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:50:07Z",
-                "open_issues": 764,
+                "last_commit": "2026-10-03T01:21:56Z",
+                "open_issues": 768,
                 "owner": "MudBlazor",
                 "repo": "MudBlazor",
-                "stars": 10630,
+                "stars": 10631,
                 "topics": [
                   "blazor",
                   "blazor-components",
@@ -2503,11 +2463,11 @@
                 "id": 123625732,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T18:55:09Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-03T02:18:00Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "fast",
-                "stars": 9675,
+                "stars": 9673,
                 "topics": [
                   "adaptive-ui",
                   "animation-library",
@@ -2545,7 +2505,7 @@
                 "open_issues": 5,
                 "owner": "dotnetcore",
                 "repo": "BootstrapBlazor",
-                "stars": 4912,
+                "stars": 4913,
                 "topics": [
                   "blazor",
                   "bootstrap",
@@ -2571,7 +2531,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T16:34:08Z",
-                "open_issues": 21,
+                "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "fluentui-blazor",
                 "stars": 4842,
@@ -2607,11 +2567,11 @@
                 "id": 169556401,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:30:47Z",
+                "last_commit": "2026-10-02T15:21:53Z",
                 "open_issues": 16,
                 "owner": "radzenhq",
                 "repo": "radzen-blazor",
-                "stars": 4362,
+                "stars": 4363,
                 "topics": [
                   "asp-net-core",
                   "blazor",
@@ -2649,8 +2609,8 @@
                 "id": 159973917,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:02:12Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-02T20:34:30Z",
+                "open_issues": 54,
                 "owner": "Megabit",
                 "repo": "Blazorise",
                 "stars": 3536,
@@ -2878,8 +2838,8 @@
                 "id": 314605433,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-01T21:33:33Z",
-                "open_issues": 281,
+                "last_commit": "2026-10-02T21:35:46Z",
+                "open_issues": 280,
                 "owner": "havit",
                 "repo": "Havit.Blazor",
                 "stars": 605,
@@ -3125,7 +3085,7 @@
                 "id": 271521082,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-29T23:27:54Z",
+                "last_commit": "2026-10-02T23:15:52Z",
                 "open_issues": 14,
                 "owner": "panoramicdata",
                 "repo": "PanoramicData.Blazor",
@@ -3146,7 +3106,7 @@
                 "id": 394313925,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-28T06:48:12Z",
+                "last_commit": "2026-10-03T03:28:38Z",
                 "open_issues": 0,
                 "owner": "Jurioli",
                 "repo": "Blazor.WebForm.Components",
@@ -3563,7 +3523,7 @@
                     "id": 1116309992,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T17:54:56Z",
+                    "last_commit": "2026-10-02T15:22:37Z",
                     "open_issues": 24,
                     "owner": "EdoParis",
                     "repo": "BlazorCharts",
@@ -5458,7 +5418,7 @@
                 "open_issues": 8,
                 "owner": "Tewr",
                 "repo": "BlazorWorker",
-                "stars": 484,
+                "stars": 483,
                 "topics": [
                   "backgroundservice",
                   "blazor",
@@ -6936,198 +6896,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Archives",
-          "description": "2023, 2022, 2021, 2020, 2019, 2018, 2017.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
-            "homepage": null,
-            "id": 127247098,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-01T08:44:47Z",
-            "open_issues": 90,
-            "owner": "AdrienTorris",
-            "repo": "awesome-blazor",
-            "stars": 9376,
-            "topics": [
-              "asp-net-core",
-              "aspnetcore",
-              "awesome",
-              "awesome-list",
-              "blazor",
-              "blazor-application",
-              "blazor-component",
-              "blazor-crud",
-              "blazor-interop",
-              "blazor-master",
-              "blazor-port",
-              "blazor-sample",
-              "blazor-web",
-              "csharp",
-              "dotnet-core",
-              "microsoft",
-              "microsoft-blazor",
-              "razor",
-              "razor-components",
-              "webassembly"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:02.825Z"
-        }
-      ],
-      "title": "Videos"
-    },
-    {
-      "description": "*Build Agentic UI with the new Blazor AI components - September 28, 2026 - Build Agentic UI with the new Blazor AI components for streamed content, tools, approvals, shared state, and generative experiences.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Archives",
-          "description": "2023, 2022, 2021, 2020, 2019, 2018, 2017.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
-            "homepage": null,
-            "id": 127247098,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-01T08:44:47Z",
-            "open_issues": 90,
-            "owner": "AdrienTorris",
-            "repo": "awesome-blazor",
-            "stars": 9376,
-            "topics": [
-              "asp-net-core",
-              "aspnetcore",
-              "awesome",
-              "awesome-list",
-              "blazor",
-              "blazor-application",
-              "blazor-component",
-              "blazor-crud",
-              "blazor-interop",
-              "blazor-master",
-              "blazor-port",
-              "blazor-sample",
-              "blazor-web",
-              "csharp",
-              "dotnet-core",
-              "microsoft",
-              "microsoft-blazor",
-              "razor",
-              "razor-components",
-              "webassembly"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:02.825Z"
-        }
-      ],
-      "title": "Articles"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Archives",
-          "description": "2021, 2020, 2019, 2018, 2017.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
-            "homepage": null,
-            "id": 127247098,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-01T08:44:47Z",
-            "open_issues": 90,
-            "owner": "AdrienTorris",
-            "repo": "awesome-blazor",
-            "stars": 9376,
-            "topics": [
-              "asp-net-core",
-              "aspnetcore",
-              "awesome",
-              "awesome-list",
-              "blazor",
-              "blazor-application",
-              "blazor-component",
-              "blazor-crud",
-              "blazor-interop",
-              "blazor-master",
-              "blazor-port",
-              "blazor-sample",
-              "blazor-web",
-              "csharp",
-              "dotnet-core",
-              "microsoft",
-              "microsoft-blazor",
-              "razor",
-              "razor-components",
-              "webassembly"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:02.825Z"
-        }
-      ],
-      "title": "Podcasts"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Archives",
-          "description": "2020, 2019, 2018.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
-            "homepage": null,
-            "id": 127247098,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-01T08:44:47Z",
-            "open_issues": 90,
-            "owner": "AdrienTorris",
-            "repo": "awesome-blazor",
-            "stars": 9376,
-            "topics": [
-              "asp-net-core",
-              "aspnetcore",
-              "awesome",
-              "awesome-list",
-              "blazor",
-              "blazor-application",
-              "blazor-component",
-              "blazor-crud",
-              "blazor-interop",
-              "blazor-master",
-              "blazor-port",
-              "blazor-sample",
-              "blazor-web",
-              "csharp",
-              "dotnet-core",
-              "microsoft",
-              "microsoft-blazor",
-              "razor",
-              "razor-components",
-              "webassembly"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:02.825Z"
-        }
-      ],
-      "title": "Presentations slides"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "Publish-time Pre-render for Blazor Wasm",
           "description": "When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.",
           "children": [],
@@ -7364,48 +7132,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Archives",
-          "description": "2018.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
-            "homepage": null,
-            "id": 127247098,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-01T08:44:47Z",
-            "open_issues": 90,
-            "owner": "AdrienTorris",
-            "repo": "awesome-blazor",
-            "stars": 9376,
-            "topics": [
-              "asp-net-core",
-              "aspnetcore",
-              "awesome",
-              "awesome-list",
-              "blazor",
-              "blazor-application",
-              "blazor-component",
-              "blazor-crud",
-              "blazor-interop",
-              "blazor-master",
-              "blazor-port",
-              "blazor-sample",
-              "blazor-web",
-              "csharp",
-              "dotnet-core",
-              "microsoft",
-              "microsoft-blazor",
-              "razor",
-              "razor-components",
-              "webassembly"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:02.825Z"
-        },
-        {
-          "node_type": "item",
           "title": "Blazor, A Beginners Guide",
           "description": "March 18, 2020 - A free e-book for getting started with the Blazor framework. Examples source code.",
           "children": [],
@@ -7504,7 +7230,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10408,
+            "stars": 10407,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -7531,7 +7257,7 @@
             "open_issues": 177,
             "owner": "dodyg",
             "repo": "practical-aspnetcore",
-            "stars": 10408,
+            "stars": 10407,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -7585,7 +7311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:39:22.989Z",
+    "last_updated": "2026-10-03T04:34:11.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
