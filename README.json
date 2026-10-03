@@ -19,7 +19,7 @@
             "open_issues": 4206,
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38464,
+            "stars": 38465,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -89,7 +89,7 @@
             "id": 71365344,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:39:07Z",
+            "last_commit": "2026-10-03T07:41:53Z",
             "open_issues": 131,
             "owner": "bitfoundation",
             "repo": "bitplatform",
@@ -2567,7 +2567,7 @@
                 "id": 169556401,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:21:53Z",
+                "last_commit": "2026-10-03T06:30:18Z",
                 "open_issues": 16,
                 "owner": "radzenhq",
                 "repo": "radzen-blazor",
@@ -2609,7 +2609,7 @@
                 "id": 159973917,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:34:30Z",
+                "last_commit": "2026-10-03T06:30:45Z",
                 "open_issues": 54,
                 "owner": "Megabit",
                 "repo": "Blazorise",
@@ -7311,7 +7311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:11.680Z",
+    "last_updated": "2026-10-03T09:03:44.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
